@@ -12,7 +12,7 @@ class Home extends Component {
     posts: [],
     allPosts: [],
     page: 0,
-    postPage: 2,
+    postPage: 10,
     search: ''
   };
 
